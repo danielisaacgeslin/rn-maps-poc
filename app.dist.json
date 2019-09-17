@@ -1,9 +1,9 @@
 {
-  "name": "bareseed",
-  "displayName": "React Native Bare Seed",
+  "name": "rn-maps-poc",
+  "displayName": "rn-maps-poc",
   "expo": {
-    "name": "test bare seed",
-    "slug": "test-bare-seed",
+    "name": "rn-maps-poc",
+    "slug": "rn-maps-poc",
     "version": "0.1.0",
     "sdkVersion": "34.0.0",
     "platforms": [
@@ -12,14 +12,14 @@
     ],
     "entryPoint": "node_modules/expo/AppEntry.js",
     "ios": {
-      "bundleIdentifier": "com.making.sense.test",
+      "bundleIdentifier": "com.rn-maps-poc",
       "supportsTablet": true,
       "config": {
         "usesNonExemptEncryption": false
       }
     },
     "android": {
-      "package": "com.making.sense.test",
+      "package": "com.rn-maps-poc",
       "versionCode": 1
     },
     "icon": "./icon.png",

@@ -1,4 +1,4 @@
-package com.bareseed.generated;
+package com.rn-maps-poc.generated;
 
 import java.util.Arrays;
 import java.util.List;

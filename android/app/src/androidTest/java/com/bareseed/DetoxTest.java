@@ -1,4 +1,4 @@
-package com.bareseed;
+package com.rn-maps-poc;
 
 import com.wix.detox.Detox;
 

@@ -15,6 +15,6 @@ project(':react-native-gesture-handler').projectDir = new File(rootProject.proje
 include ':detox'
 project(':detox').projectDir = new File(rootProject.projectDir, '../node_modules/detox/android/detox')
 
-rootProject.name = 'bareseed'
+rootProject.name = 'rn-maps-poc'
 
 include ':app'

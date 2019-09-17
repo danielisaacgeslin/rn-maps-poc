@@ -1,4 +1,4 @@
-package com.bareseed;
+package com.rn-maps-poc;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
@@ -13,7 +13,7 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "bareseed";
+        return "rn-maps-poc";
     }
 
     @Override
