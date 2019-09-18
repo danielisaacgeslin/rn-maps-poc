@@ -99,7 +99,7 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
 
     defaultConfig {
-        applicationId "com.rn-maps-poc"
+        applicationId "com.rnmapspoc"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
@@ -155,7 +155,6 @@ android {
 }
 
 dependencies {
-    implementation project(':react-native-maps')
     implementation project(':react-native-vector-icons')
     implementation project(':react-native-screens')
     implementation project(':react-native-reanimated')
@@ -168,6 +167,8 @@ dependencies {
     // detox
      androidTestImplementation(project(path: ":detox"))
      androidTestImplementation 'junit:junit:4.12'
+
+     implementation project(':react-native-maps')
 
 
 }

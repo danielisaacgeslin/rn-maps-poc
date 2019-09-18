@@ -1,4 +1,4 @@
-package com.rn-maps-poc.generated;
+package com.rnmapspoc.generated;
 
 import java.util.Arrays;
 import java.util.List;

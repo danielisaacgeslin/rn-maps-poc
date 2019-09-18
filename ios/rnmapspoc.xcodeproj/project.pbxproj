@@ -20,40 +20,40 @@
 		5B5B98D6F8C548EA8BC203E3 /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3C522E2A8BAA4E0FB82BC13B /* EvilIcons.ttf */; };
 		6ED1AD3B8A5D4CD8A881836E /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E1C1567E56CF4BF5B4416234 /* Entypo.ttf */; };
 		7A4DEE7050DE489EBF02433A /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B3452B7BE37242729C5FDD0A /* Feather.ttf */; };
+		82B884342818F2E61F3A2E02 /* libPods-rnmapspoc.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5C0933348C5D161FE3FF2044 /* libPods-rnmapspoc.a */; };
 		83904DE909FA41D8AC241BFB /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A10D0BED67F0411E816FA34C /* Zocial.ttf */; };
 		A35A0165272246E6B1D3C83A /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 582DFDF3A6D741D8892EB661 /* MaterialCommunityIcons.ttf */; };
 		AC76BAFD5D3548578DE4A61F /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9E6CE250A1A84972A48DC803 /* Ionicons.ttf */; };
 		B549AAB5ED5D45918CEEE31F /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 700951B08B2843E8BDBEFEBA /* MaterialIcons.ttf */; };
 		C53307B90A4245C8B74F5E65 /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F19F3E95BAFE4F4EB596C7B1 /* AntDesign.ttf */; };
-		D17258C217EB46BC1263477A /* libPods-rn-maps-poc.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2D726B17BFF205FCC9AB2571 /* libPods-rn-maps-poc.a */; };
 		DA368EC0BFC643588CCA3EE5 /* Fontisto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3FED2E87B1C742C2BA1390A4 /* Fontisto.ttf */; };
 		E033F883281B474EA505EF2E /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1AFEF31141804B64AAD7C026 /* FontAwesome5_Solid.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* rn-maps-poc.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "rn-maps-poc.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = "rn-maps-poc/AppDelegate.h"; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = "rn-maps-poc/AppDelegate.m"; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* rnmapspoc.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = rnmapspoc.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = rnmapspoc/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = rnmapspoc/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB21A68108700A75B9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = "rn-maps-poc/Images.xcassets"; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = "rn-maps-poc/Info.plist"; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = "rn-maps-poc/main.m"; sourceTree = "<group>"; };
-		1A5D168674E89428ED50242A /* Pods-rn-maps-poc.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rn-maps-poc.release.xcconfig"; path = "Target Support Files/Pods-rn-maps-poc/Pods-rn-maps-poc.release.xcconfig"; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = rnmapspoc/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = rnmapspoc/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = rnmapspoc/main.m; sourceTree = "<group>"; };
 		1AFEF31141804B64AAD7C026 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Solid.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; };
 		2D16E6891FA4F8E400B85C8A /* libReact.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libReact.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D726B17BFF205FCC9AB2571 /* libPods-rn-maps-poc.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rn-maps-poc.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3C522E2A8BAA4E0FB82BC13B /* EvilIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = EvilIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
 		3FED2E87B1C742C2BA1390A4 /* Fontisto.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Fontisto.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf"; sourceTree = "<group>"; };
+		41605A9D6C55F56F3BB5031A /* Pods-rnmapspoc.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rnmapspoc.debug.xcconfig"; path = "Target Support Files/Pods-rnmapspoc/Pods-rnmapspoc.debug.xcconfig"; sourceTree = "<group>"; };
 		582DFDF3A6D741D8892EB661 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialCommunityIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
+		5C0933348C5D161FE3FF2044 /* libPods-rnmapspoc.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-rnmapspoc.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5EC4AA25DCD244EEBDBA8D65 /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = SimpleLineIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; };
 		700951B08B2843E8BDBEFEBA /* MaterialIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
 		74AB441BCC5D4DFFB12C825B /* Foundation.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Foundation.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Foundation.ttf"; sourceTree = "<group>"; };
 		74F7932B002C402DB510D0C1 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Regular.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
-		7C232B70D621B24EC2D6DBA4 /* Pods-rn-maps-poc.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rn-maps-poc.debug.xcconfig"; path = "Target Support Files/Pods-rn-maps-poc/Pods-rn-maps-poc.debug.xcconfig"; sourceTree = "<group>"; };
 		80CD1DE3C0B243D0809577CA /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
 		9E6CE250A1A84972A48DC803 /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
 		A10D0BED67F0411E816FA34C /* Zocial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Zocial.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
+		A7E86D3701BE0D2DD92EE7DF /* Pods-rnmapspoc.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-rnmapspoc.release.xcconfig"; path = "Target Support Files/Pods-rnmapspoc/Pods-rnmapspoc.release.xcconfig"; sourceTree = "<group>"; };
 		B3452B7BE37242729C5FDD0A /* Feather.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Feather.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Feather.ttf"; sourceTree = "<group>"; };
 		E1C1567E56CF4BF5B4416234 /* Entypo.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Entypo.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
 		E97666F10D3649A2B1C15A18 /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Brands.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; };
@@ -68,14 +68,14 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D17258C217EB46BC1263477A /* libPods-rn-maps-poc.a in Frameworks */,
+				82B884342818F2E61F3A2E02 /* libPods-rnmapspoc.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		13B07FAE1A68108700A75B9A /* rn-maps-poc */ = {
+		13B07FAE1A68108700A75B9A /* rnmapspoc */ = {
 			isa = PBXGroup;
 			children = (
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
@@ -86,7 +86,7 @@
 				13B07FB11A68108700A75B9A /* LaunchScreen.xib */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = "rn-maps-poc";
+			name = rnmapspoc;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
@@ -95,9 +95,19 @@
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
 				2D16E6891FA4F8E400B85C8A /* libReact.a */,
-				2D726B17BFF205FCC9AB2571 /* libPods-rn-maps-poc.a */,
+				5C0933348C5D161FE3FF2044 /* libPods-rnmapspoc.a */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		3219607527626D52B370C7EC /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				41605A9D6C55F56F3BB5031A /* Pods-rnmapspoc.debug.xcconfig */,
+				A7E86D3701BE0D2DD92EE7DF /* Pods-rnmapspoc.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
 			sourceTree = "<group>";
 		};
 		4937681F064741D4A12DCB11 /* Resources */ = {
@@ -134,12 +144,12 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* rn-maps-poc */,
+				13B07FAE1A68108700A75B9A /* rnmapspoc */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				4937681F064741D4A12DCB11 /* Resources */,
-				C676016674FF4C3F2B4CF6B3 /* Pods */,
+				3219607527626D52B370C7EC /* Pods */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -149,43 +159,33 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* rn-maps-poc.app */,
+				13B07F961A680F5B00A75B9A /* rnmapspoc.app */,
 			);
 			name = Products;
-			sourceTree = "<group>";
-		};
-		C676016674FF4C3F2B4CF6B3 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				7C232B70D621B24EC2D6DBA4 /* Pods-rn-maps-poc.debug.xcconfig */,
-				1A5D168674E89428ED50242A /* Pods-rn-maps-poc.release.xcconfig */,
-			);
-			name = Pods;
-			path = Pods;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		13B07F861A680F5B00A75B9A /* rn-maps-poc */ = {
+		13B07F861A680F5B00A75B9A /* rnmapspoc */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "rn-maps-poc" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "rnmapspoc" */;
 			buildPhases = (
-				7D383952D4112FEDDB48E928 /* [CP] Check Pods Manifest.lock */,
+				99E0B2292C5E9B6575D44764 /* [CP] Check Pods Manifest.lock */,
 				FD4C38642228810C00325AF5 /* Start Packager */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				6D4E14B429A899E4B3826973 /* [CP] Copy Pods Resources */,
+				CB4DA6B23E6B74FBC022BE88 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "rn-maps-poc";
+			name = rnmapspoc;
 			productName = "Hello World";
-			productReference = 13B07F961A680F5B00A75B9A /* rn-maps-poc.app */;
+			productReference = 13B07F961A680F5B00A75B9A /* rnmapspoc.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -203,7 +203,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "rn-maps-poc" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "rnmapspoc" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -216,7 +216,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* rn-maps-poc */,
+				13B07F861A680F5B00A75B9A /* rnmapspoc */,
 			);
 		};
 /* End PBXProject section */
@@ -264,13 +264,35 @@
 			shellPath = /bin/sh;
 			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
 		};
-		6D4E14B429A899E4B3826973 /* [CP] Copy Pods Resources */ = {
+		99E0B2292C5E9B6575D44764 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-rnmapspoc-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		CB4DA6B23E6B74FBC022BE88 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-rn-maps-poc/Pods-rn-maps-poc-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-rnmapspoc/Pods-rnmapspoc-resources.sh",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
@@ -309,29 +331,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-rn-maps-poc/Pods-rn-maps-poc-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		7D383952D4112FEDDB48E928 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-rn-maps-poc-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-rnmapspoc/Pods-rnmapspoc-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD4C38642228810C00325AF5 /* Start Packager */ = {
@@ -374,7 +374,7 @@
 				13B07FB21A68108700A75B9A /* Base */,
 			);
 			name = LaunchScreen.xib;
-			path = "rn-maps-poc";
+			path = rnmapspoc;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -382,12 +382,12 @@
 /* Begin XCBuildConfiguration section */
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7C232B70D621B24EC2D6DBA4 /* Pods-rn-maps-poc.debug.xcconfig */;
+			baseConfigurationReference = 41605A9D6C55F56F3BB5031A /* Pods-rnmapspoc.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
-				INFOPLIST_FILE = "rn-maps-poc/Info.plist";
+				INFOPLIST_FILE = rnmapspoc/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -395,18 +395,18 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = "rn-maps-poc";
+				PRODUCT_NAME = rnmapspoc;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1A5D168674E89428ED50242A /* Pods-rn-maps-poc.release.xcconfig */;
+			baseConfigurationReference = A7E86D3701BE0D2DD92EE7DF /* Pods-rnmapspoc.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
-				INFOPLIST_FILE = "rn-maps-poc/Info.plist";
+				INFOPLIST_FILE = rnmapspoc/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
@@ -414,7 +414,7 @@
 					"-lc++",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = "rn-maps-poc";
+				PRODUCT_NAME = rnmapspoc;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
@@ -521,7 +521,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "rn-maps-poc" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "rnmapspoc" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -530,7 +530,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "rn-maps-poc" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "rnmapspoc" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,

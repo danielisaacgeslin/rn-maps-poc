@@ -1,4 +1,4 @@
-package com.rn-maps-poc;
+package com.rnmapspoc;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
@@ -13,7 +13,7 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "rn-maps-poc";
+        return "rnmapspoc";
     }
 
     @Override

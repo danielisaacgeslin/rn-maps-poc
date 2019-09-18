@@ -1,4 +1,4 @@
-package com.rn-maps-poc;
+package com.rnmapspoc;
 
 import com.wix.detox.Detox;
 

@@ -1,5 +1,5 @@
 {
-  "name": "rn-maps-poc",
+  "name": "rnmapspoc",
   "scripts": {
     "react-native": "react-native",
     "preandroid": "npx jetify",
@@ -150,8 +150,8 @@
         "name": "n"
       },
       "ios.sim.debug": {
-        "binaryPath": "ios/build/Build/Products/Debug-iphonesimulator/rn-maps-poc.app",
-        "build": "xcodebuild -project ios/rn-maps-poc.xcodeproj -scheme rn-maps-poc -configuration Debug -sdk iphonesimulator -derivedDataPath ios/build",
+        "binaryPath": "ios/build/Build/Products/Debug-iphonesimulator/rnmapspoc.app",
+        "build": "xcodebuild -project ios/rnmapspoc.xcodeproj -scheme rnmapspoc -configuration Debug -sdk iphonesimulator -derivedDataPath ios/build",
         "type": "ios.simulator",
         "name": "iPhone 7"
       }

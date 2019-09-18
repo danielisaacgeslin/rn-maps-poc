@@ -1,9 +1,9 @@
 {
-  "name": "rn-maps-poc",
-  "displayName": "rn-maps-poc",
+  "name": "rnmapspoc",
+  "displayName": "rnmapspoc",
   "expo": {
-    "name": "rn-maps-poc",
-    "slug": "rn-maps-poc",
+    "name": "rnmapspoc",
+    "slug": "rnmapspoc",
     "version": "0.1.0",
     "sdkVersion": "34.0.0",
     "platforms": [
@@ -12,14 +12,14 @@
     ],
     "entryPoint": "node_modules/expo/AppEntry.js",
     "ios": {
-      "bundleIdentifier": "com.rn-maps-poc",
+      "bundleIdentifier": "com.rnmapspoc",
       "supportsTablet": true,
       "config": {
         "usesNonExemptEncryption": false
       }
     },
     "android": {
-      "package": "com.rn-maps-poc",
+      "package": "com.rnmapspoc",
       "versionCode": 1
     },
     "icon": "./icon.png",

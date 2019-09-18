@@ -1,4 +1,4 @@
-package com.rn-maps-poc;
+package com.rnmapspoc;
 
 import android.app.Application;
 
@@ -9,7 +9,7 @@ import com.facebook.react.ReactNativeHost;
 import com.facebook.react.ReactPackage;
 import com.facebook.react.shell.MainReactPackage;
 import com.facebook.soloader.SoLoader;
-import com.rn-maps-poc.generated.BasePackageList;
+import com.rnmapspoc.generated.BasePackageList;
 import com.swmansion.gesturehandler.react.RNGestureHandlerPackage;
 import com.swmansion.reanimated.ReanimatedPackage;
 import com.swmansion.rnscreens.RNScreensPackage;
